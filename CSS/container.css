@@ -1,0 +1,40 @@
+.container{
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* // X-Small devices (portrait phones, less than 576px) */
+@media (min-width: 576px) { 
+    .container{
+        width: 540px;
+    }
+}
+    
+
+/* // Small devices (landscape phones, less than 768px) */
+@media (min-width: 768px) { 
+
+    .container{
+        width: 750px;
+    }
+}
+
+/* // Medium devices (tablets, less than 992px) */
+@media (min-width: 992px) { 
+    
+    .container{
+        width: 970px;
+    }
+}
+
+
+/* // Large devices (desktops, less than 1200px) */
+@media (min-width: 1200px) { 
+    .container{
+        width: 1140px;
+    }
+    
+}
+
