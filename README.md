@@ -3,7 +3,7 @@
 
 ## Welcome! 👋
 
-This Template Three Two from Elzero web school 
+This Template Three from Elzero web school 
 
 Thanks for checking out this front-end coding challenge.
 
