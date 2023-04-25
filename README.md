@@ -1,9 +1,9 @@
-# Kasper Template | Html & Css
+# Template 3 | Html & Css
 ![Design preview](./imgs/Capture.PNG)
 
 ## Welcome! 👋
 
-This is Kasper Template Two from Elzero web school 
+This Template Three Two from Elzero web school 
 
 Thanks for checking out this front-end coding challenge.
 
